@@ -14,4 +14,4 @@ def test_add_negative_numbers():
 
 
 def test_add_mixed_signs():
-    assert add(-3, 2) == 1
+    assert add(-3, 2) == -1
